@@ -1,67 +1,56 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 14/11/2025
+## Register Number:212224230145
+## Name: MAGESH BOOPATHI.M
 ## Problem Title
-SIH 25006: Development of a Digital Farm Management Portal for implementing Biosecurity measures in Pig and Poultry Farms
+SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
-### Background
+A majority of small and marginal farmers in India rely on traditional knowledge, local shopkeepers, or guesswork for crop selection, pest control, and fertilizer use. They lack access to personalized, real-time advisory services that account for soil type, weather conditions, and crop history. This often leads to poor yield, excessive input costs, and environmental degradation due to overuse of chemicals. Language barriers, low digital literacy, and absence of localized tools further limit their access to modern agri-tech resources.
 
-Biosecurity is a cornerstone of animal health management, particularly in the pig and poultry sectors, where disease outbreaks such as Avian Influenza and African Swine Fever can cause significant economic losses, threaten food security, and disrupt rural livelihoods. Despite its importance, many farmers—especially smallholders in resource-limited areas—struggle to access practical, actionable information on biosecurity protocols, risk assessment tools, and regulatory compliance requirements.
+Impact / Why this problem needs to be solved
 
-### Problem Description
+Helping small farmers make informed decisions can significantly increase productivity, reduce costs, and improve livelihoods. It also contributes to sustainable farming practices, food security, and environmental conservation. A smart advisory solution can empower farmers with scientific insights in their native language and reduce dependency on unreliable third-party advice.
 
-There is an urgent need for a user-friendly, digital platform that empowers farmers to implement, monitor, and sustain robust biosecurity practices on their farms. This portal should offer end-to-end solutions for farm-level biosecurity management by integrating:
+Expected Outcomes
 
-• Customizable risk assessment tools based on local epidemiological conditions.
-• Interactive training modules and best practice guidelines tailored for pig and poultry production systems.
-• Compliance tracking features aligned with regulatory frameworks to help farmers work toward disease-free compartment recognition.
-• Real-time alerts and monitoring dashboards for disease outbreaks and biosecurity breaches.
-• Multilingual and mobile-first design to ensure accessibility in remote and rural areas.
+• A multilingual, AI-based mobile app or chatbot that provides real-time, location-specific crop advisory.
+• Soil health recommendations and fertilizer guidance.
+• Weather-based alerts and predictive insights.
+• Pest/disease detection via image uploads.
+• Market price tracking.
+• Voice support for low-literate users.
+• Feedback and usage data collection for continuous improvement.
 
-The platform should also enable data collection and analysis for policy support, foster collaborative networking among stakeholders (farmers, veterinarians, extension workers, etc.), and promote long-term resilience and sustainability in the livestock sector.
+Relevant Stakeholders / Beneficiaries
 
-### Expected Outcomes
+• Small and marginal farmers
+• Agricultural extension officers
+• Government agriculture departments
+• NGOs and cooperatives
+• Agri-tech startups
 
-• Enhanced farmer awareness and education on biosecurity.
-• Improved risk management at the farm level as well as self-assessment.
-• Easy access to customized biosecurity protocols and guidelines.
-• Digital record-keeping and compliance tracking.
-• Timely alerts and disease notifications to farmers.
-• Healthier livestock and increased farm productivity.
-• Empowerment of small and marginal farmers with limited resources.
-• Support to authorities in data-driven surveillance and policy making.
-• Stronger collaboration across the livestock ecosystem.
-• Improved national preparedness for zoonotic and transboundary diseases.
+Supporting Data
+
+• 86% of Indian farmers are small or marginal (NABARD Report, 2022).
+• Studies show ICT-based advisories can increase crop yield by 20–30%.
 
 ## Problem Creater's Organization
-Ministry of Fisheries, Animal Husbandry & Dairying
+Government of Punjab
 
 ## Theme
-Department of Animal Husbandry & Dairying (DoAH&D)
+Agriculture, FoodTech & Rural Development
 
-## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+## PROPOSED SOLUTION
+<ul> <li>Create a **Blockchain-enabled Farm-to-Table Traceability System** that allows small and marginal farmers to digitally record and authenticate their farming practices, including seed type, fertilizer and pesticide usage, harvest dates, and transport history.</li> <li>This transparent system builds consumer trust by verifying organic and sustainable farming claims, enabling farmers to access premium markets and fair pricing directly.</li> <li>The mobile app supports multilingual voice commands for easy data entry by low-literacy users and incorporates AI-driven demand forecasting to help farmers plan crops based on market needs, thereby reducing wastage and increasing profitability.</li> </ul>
 
-## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+## TECHNICAL SUPPORT
+<ul> <li>Technologies: Blockchain platforms like Hyperledger or Ethereum for immutable record-keeping; Python and TensorFlow for AI-powered demand forecasting; React Native for cross-platform mobile app development; cloud services for data storage and processing; voice recognition APIs for multilingual, voice-based interaction.</li> <li>Methodology: Farmers input farming practice data into the app → blockchain records create an immutable trace → AI analyzes market demand trends and provides crop planning recommendations → consumers and retailers access verified produce information → government and NGOs use data analytics dashboards for monitoring and support.</li> </ul>
 
-## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+## FEASIBILITY AND VIABILITY
+ <ul> <li>Blockchain and AI technologies are mature, scalable, and increasingly cost-effective, making the solution technically feasible.</li> <li>Challenges include limited internet connectivity in rural areas, initial user training, and adoption resistance.</li> <li>Strategies to overcome these include designing offline app modes with periodic syncing, partnering with local cooperatives and government agencies for farmer education, and providing incentives for platform usage.</li> </ul>
+ 
+## IMPACT AND BENIFITS
+<ul> <li>Empowers small farmers by increasing transparency, building consumer trust, and enabling access to premium markets, which can boost incomes.</li> <li>Reduces exploitation by middlemen and supports sustainable, responsible farming through verified organic practices.</li> <li>Enables data-driven agricultural planning, reducing post-harvest losses and improving food security.</li> </ul>
 
-## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
-
-## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+## RESEARCH AND REFERENCES
+ <ul> <li>NABARD Report, 2022 – Statistics on small and marginal farmers in India.</li> <li>FAO Report, 2023 – Impact of traceability systems on farmer income and market access.</li> <li>Studies on AI for crop demand forecasting and blockchain adoption in agri-food supply chains.</li> </ul>
